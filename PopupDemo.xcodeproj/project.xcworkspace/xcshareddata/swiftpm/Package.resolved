@@ -1,0 +1,15 @@
+{
+  "originHash" : "ac5975763c11e3d9f699b39e298872d1a12f83b312cbff3e215b231f37394435",
+  "pins" : [
+    {
+      "identity" : "popupview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mijick/PopupView.git",
+      "state" : {
+        "revision" : "fea5e68469b9967bdbb48fbb1ddd608db5aeaa29",
+        "version" : "2.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
